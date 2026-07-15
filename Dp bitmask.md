@@ -1,0 +1,1 @@
+[cf blog](https://codeforces.com/blog/entry/149201) 
