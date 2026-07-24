@@ -4,6 +4,7 @@ aliases: []
 tags: []
 ---
 #dp 
+[Codeforces Blog](https://codeforces.com/blog/entry/92602) 
 Biz bunu xususi permutasiyalarin sayi kimi hesablaya bilerik yani hansisa sertlere emel eden permutasiyalari saymaq.
 
 Men burada asand olsun deye o(n!) i nece bununla hesablamaq olacaqini gorsedecem.

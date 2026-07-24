@@ -87,7 +87,7 @@ void dfs(int v, int p){
 tin[a] <= tin[b] && tout[b] <= tout[a]
 ```
 
-Cod:
+Kod:
 
 ```cpp
 bool isAncestor(int a, int b){
